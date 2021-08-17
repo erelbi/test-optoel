@@ -2,90 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OPTOEL MPM(Manufacturing Process Management)</title>
-    <link>http://example.org/</link>
+    <link>https://erelbi.github.io/test-optoel/</link>
     <description>Recent content on OPTOEL MPM(Manufacturing Process Management)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr-tr</language>
-    <lastBuildDate>Tue, 17 Aug 2021 14:53:22 +0300</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Aug 2021 14:53:22 +0300</lastBuildDate><atom:link href="https://erelbi.github.io/test-optoel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rapolarma</title>
-      <link>http://example.org/optel-mpm/rapolarma/</link>
+      <link>https://erelbi.github.io/test-optoel/optel-mpm/rapolarma/</link>
       <pubDate>Tue, 17 Aug 2021 14:51:04 +0300</pubDate>
       
-      <guid>http://example.org/optel-mpm/rapolarma/</guid>
+      <guid>https://erelbi.github.io/test-optoel/optel-mpm/rapolarma/</guid>
       <description>Bu kısım yazılacaktır. ( Görseller Hazırlanıyor )</description>
     </item>
     
     <item>
       <title>Kullanıcı Yetkilendirme</title>
-      <link>http://example.org/optel-mpm/kullan%C4%B1c%C4%B1-yetkilendirme/</link>
+      <link>https://erelbi.github.io/test-optoel/optel-mpm/kullan%C4%B1c%C4%B1-yetkilendirme/</link>
       <pubDate>Tue, 17 Aug 2021 14:50:54 +0300</pubDate>
       
-      <guid>http://example.org/optel-mpm/kullan%C4%B1c%C4%B1-yetkilendirme/</guid>
+      <guid>https://erelbi.github.io/test-optoel/optel-mpm/kullan%C4%B1c%C4%B1-yetkilendirme/</guid>
       <description>MPM sistemlerinde kullanıcı yetkilerinin doğu bir şekilde tanımlanması ve sisteme entegre edilmesi çok önemlidir. Böylece sadece görevli ve ilgili kişiler işlemleri yapabilecek, görevlilerin arasındaki sınır korunacak ve görevler ayrılığı prensibi (segregation of duties – SOD) uygulanabilecektir.  MPM uygulamalarında, projenin bazı aşamalarında test bazlı ya da doğru tanımlama yapılmadan verilen kullanıcı hakları, sistem canlı olarak kullanılmaya başlandığında bazı güvenlik riskleri içermektedir. Bu durum, canlı sisteme geçiş öncesinde kullanıcı haklarının listelenip, standartlara göre çakışmalarını belirleyecek programlar ile kullanıcı haklarının gözden geçirilmesini sağlayacaktır.</description>
     </item>
     
     <item>
       <title>Anlık Sensör Takibi</title>
-      <link>http://example.org/optel-mpm/anl%C4%B1k-sens%C3%B6r-takibi/</link>
+      <link>https://erelbi.github.io/test-optoel/optel-mpm/anl%C4%B1k-sens%C3%B6r-takibi/</link>
       <pubDate>Tue, 17 Aug 2021 14:50:30 +0300</pubDate>
       
-      <guid>http://example.org/optel-mpm/anl%C4%B1k-sens%C3%B6r-takibi/</guid>
+      <guid>https://erelbi.github.io/test-optoel/optel-mpm/anl%C4%B1k-sens%C3%B6r-takibi/</guid>
       <description>Geleneksel olarak üreticiler, özellikle karmaşık ve uzun çözümler üretenler olmak üzere, ürünün servis ve bakım zorluğuyla yüzleşme zorluğuyla karşılaşıyorlardı. Ancak IoT ile birlikte şu anda cihazlara entegre edilmiş iyi sensörler, ürün performansını gözlemlemek için onların kontrolünü sağlayan üreticilere bilgi akışı sağlıyor. Optoel MPM yazılımı tüm Iot sensörlerini gerçek zamanlı izlemeye olanak sağlamaktadır.</description>
     </item>
     
     <item>
       <title>Makine Kontrol</title>
-      <link>http://example.org/optel-mpm/makine-kontrol/</link>
+      <link>https://erelbi.github.io/test-optoel/optel-mpm/makine-kontrol/</link>
       <pubDate>Tue, 17 Aug 2021 14:50:14 +0300</pubDate>
       
-      <guid>http://example.org/optel-mpm/makine-kontrol/</guid>
+      <guid>https://erelbi.github.io/test-optoel/optel-mpm/makine-kontrol/</guid>
       <description>Bu kısım yazılacaktır. ( Görseller Hazırlanıyor )</description>
     </item>
     
     <item>
       <title>Planlama</title>
-      <link>http://example.org/optel-mpm/planlama/</link>
+      <link>https://erelbi.github.io/test-optoel/optel-mpm/planlama/</link>
       <pubDate>Tue, 17 Aug 2021 14:50:01 +0300</pubDate>
       
-      <guid>http://example.org/optel-mpm/planlama/</guid>
+      <guid>https://erelbi.github.io/test-optoel/optel-mpm/planlama/</guid>
       <description>Bu kısım yazılacaktır. ( Görseller Hazırlanıyor )</description>
     </item>
     
     <item>
       <title>İş Emir Takibi</title>
-      <link>http://example.org/optel-mpm/i%C5%9F-emir-takibi/</link>
+      <link>https://erelbi.github.io/test-optoel/optel-mpm/i%C5%9F-emir-takibi/</link>
       <pubDate>Tue, 17 Aug 2021 14:49:54 +0300</pubDate>
       
-      <guid>http://example.org/optel-mpm/i%C5%9F-emir-takibi/</guid>
+      <guid>https://erelbi.github.io/test-optoel/optel-mpm/i%C5%9F-emir-takibi/</guid>
       <description>OPTOEL MPM İmalat Yönetim Sistemi tarafından geliştirilen İş Emri Yönetimi modülü, işletmenizde kargaşaya son vererek birimlerinizi senkronize eder ve üretim süreçlerinin başlangıcından bitişine kadar üretiminizi kontrol altına alır. Bu süreçleri hızlı, etkin ve hatasız olarak yönetebilmenizi sağlar. Kolayca üretim talimatı verebilir, üretim planlarınızı iş emrine dönüştürebilir, otomatik alt iş emri oluşturabilir ve iş emri süreçlerini takip edebilirsiniz.
 İş Emri Yönetimi ile reçetenizi iş emrine bağlı olarak özelleştirebilir ve maliyetini anında görebilirsiniz.</description>
     </item>
     
     <item>
       <title>Kalite Kontrol</title>
-      <link>http://example.org/optel-mpm/kalite-kontrol/</link>
+      <link>https://erelbi.github.io/test-optoel/optel-mpm/kalite-kontrol/</link>
       <pubDate>Tue, 17 Aug 2021 14:49:04 +0300</pubDate>
       
-      <guid>http://example.org/optel-mpm/kalite-kontrol/</guid>
+      <guid>https://erelbi.github.io/test-optoel/optel-mpm/kalite-kontrol/</guid>
       <description>Zorunlu olarak kalite kontrol sürecine tabi tutulması istenilen malzemeler malzeme sınıfı bazında belirlenebilir. Böylece bir malzeme sınıfındaki tüm malzemeler için kalite kontrol zorunlu hale gelmiş olur. Kalite kontrol sürecinde kontrol edilecek ölçüm tipleri malzeme sınıfları bazında tanımlanabilir. Kalite kontrolü zorunlu olmadığı halde sadece bir defaya mahsus kalite kontrol sürecine sokulmak istenilen malzeme alımlarında sipariş bazlı olarak kalite kontrol zorunluluğu getirilebilir. Mal kabulünde kalite kontrolü zorunlu olan malzemelerin depocu insiyatifine bırakılmadan doğrudan kalite kontrol stok tipine girişi sağlanabilir.</description>
     </item>
     
     <item>
       <title>Üretim Kontrol</title>
-      <link>http://example.org/optel-mpm/%C3%BCretim-kontrol/</link>
+      <link>https://erelbi.github.io/test-optoel/optel-mpm/%C3%BCretim-kontrol/</link>
       <pubDate>Tue, 17 Aug 2021 14:48:51 +0300</pubDate>
       
-      <guid>http://example.org/optel-mpm/%C3%BCretim-kontrol/</guid>
+      <guid>https://erelbi.github.io/test-optoel/optel-mpm/%C3%BCretim-kontrol/</guid>
       <description>Bu kısım yazılacaktır. ( Görseller Hazırlanıyor )</description>
     </item>
     
     <item>
       <title>MPM Teknik Özellikler</title>
-      <link>http://example.org/mpm/mpm-teknik-%C3%B6zellikler/</link>
+      <link>https://erelbi.github.io/test-optoel/mpm/mpm-teknik-%C3%B6zellikler/</link>
       <pubDate>Tue, 17 Aug 2021 14:48:04 +0300</pubDate>
       
-      <guid>http://example.org/mpm/mpm-teknik-%C3%B6zellikler/</guid>
+      <guid>https://erelbi.github.io/test-optoel/mpm/mpm-teknik-%C3%B6zellikler/</guid>
       <description>Endüstriyel Nesnelerin İnterneti. Endüstri 4.0. Akıllı Üretim. Teknolojik ilerlemelerin imalat endüstrisini dönüştürdüğü açıktır. Küçük ve orta ölçekli bir işletme olsanız bile, veri ve süreç otomasyonundan yararlanmanın yeni yollarını bulmanız veya küresel pazardaki rekabetçi konumunuzu kaybetme riskini almanız gerekir.
 Optoel üretim yönetimi yazılım modülleri, üreticilere sunacağı çözümler;
  Katma değeri olmayan süreçleri ortadan kaldırın Planlanmamış kesinti sürelerini ortadan kaldırın Üretim sürecindeki darboğazları önleyin %100&amp;rsquo;e yakın makine kullanımıyla çalışın Tesis konumundan bağımsız olarak planlamayı ve kaynak tahsisini optimize edin Hammaddeden müşteri teslimatına kadar tüm üretim sürecinin eksiksiz görünürlüğüne ve izlenebilirliğine sahip olun Kalite standartlarına uymak  Optoel MPM    OPTOEL MPM, imalat sektöründe yer alan şirketler için; değişken üretim çıktıları ve izlenebilirliği artırmak için şirketinizin özel ihtiyaçları doğrultusunda geliştirilen bir yazılımdır.</description>
@@ -93,10 +93,10 @@ Optoel üretim yönetimi yazılım modülleri, üreticilere sunacağı çözüml
     
     <item>
       <title>MPM Avantajları</title>
-      <link>http://example.org/mpm/mpm-avantajlar%C4%B1/</link>
+      <link>https://erelbi.github.io/test-optoel/mpm/mpm-avantajlar%C4%B1/</link>
       <pubDate>Tue, 17 Aug 2021 14:47:46 +0300</pubDate>
       
-      <guid>http://example.org/mpm/mpm-avantajlar%C4%B1/</guid>
+      <guid>https://erelbi.github.io/test-optoel/mpm/mpm-avantajlar%C4%B1/</guid>
       <description>Herhangi bir üretim veya hizmet şirketinin başarısı, daha yüksek verimlilik, etkili ve verimli bir üretim planına bağlıdır. Etkili planlama herhangi bir işte temeldir, ancak bir plan yapmak da göründüğü kadar kolay değildir. Çünkü üretim planlama organizasyonda mevcut olan malzeme, ekipman ve insan kaynaklarını birbirine bağlayan ve birbirine bağlayan ve işi tamamlayan çok çeşitli faaliyetleri de kapsayan karmaşık bir süreçtir. Üretim planlaması, üst yönetim tarafından belirlenen hedefe ulaşmak için bir yol haritası gibidir.</description>
     </item>
     

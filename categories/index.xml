@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on OPTOEL MPM(Manufacturing Process Management)</title>
-    <link>http://example.org/categories/</link>
+    <link>https://erelbi.github.io/test-optoel/categories/</link>
     <description>Recent content in Categories on OPTOEL MPM(Manufacturing Process Management)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>tr-tr</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>tr-tr</language><atom:link href="https://erelbi.github.io/test-optoel/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
