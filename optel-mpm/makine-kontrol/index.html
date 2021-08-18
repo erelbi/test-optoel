@@ -10,7 +10,8 @@
 
 
 
-    <meta name="description" content="Bu kısım yazılacaktır. ( Görseller Hazırlanıyor )">
+    <meta name="description" content="sequenceDiagram Makine-Donanım: Sensör loop Donanım--Makine: Parametreler Okunur. end Donanım-Karar Destek Mekanizması: Veriler İşlenir loop Karar Desktek Mekanizması-OPTOEL MPM: Verilerin Görselleştirilir. end  Üretim aşamalarında verimlilik ve maliyet yönetiminin ana unsurlarındandır. OPTOEL MPM İmalat Yönetim Sistemi, üretim aşamalarında ürün ağacında tanımlı bileşenlere uygulanacak işlemlerin operasyonel, makine bazlı olarak takibini ve süre bazlı maliyetlendirilmesini sağlar. Makine arıza, bakım, verimlilik, çalışma süreleri vb. işlemlerin takibini yapabilirsiniz.
+OPTOEL MPM İmalat Yönetim Sistemi tarafından geçiştirilen Operasyon ve Makine Yönetimi modülü, üretim aşamalarının en verimli ve kontrollü bir şekilde gerçekleştirilmesini sağlar.">
 
 
 
@@ -493,7 +494,91 @@
 
     <article class="gdoc-markdown gdoc-markdown__align--left">
         <h1>Makine Kontrol</h1>
-        <p>Bu kısım yazılacaktır. ( Görseller Hazırlanıyor )</p>
+        
+
+<script defer src="/test-optoel/js/mermaid-1fc9ef3e82.min.js"></script>
+<script defer src="/test-optoel/js/mermaid-loader-1bd1515cbf.min.js"></script>
+
+
+
+<pre class="gdoc-mermaid mermaid">
+sequenceDiagram
+    Makine->Donanım: Sensör
+    loop 
+        Donanım-->Makine: Parametreler Okunur.
+    end
+    Donanım->Karar Destek Mekanizması: Veriler İşlenir
+    loop
+        Karar Desktek Mekanizması->OPTOEL MPM: Verilerin Görselleştirilir.
+    end
+</pre>
+
+<p>Üretim aşamalarında verimlilik ve maliyet yönetiminin ana unsurlarındandır. OPTOEL MPM İmalat Yönetim Sistemi, üretim aşamalarında ürün ağacında tanımlı bileşenlere uygulanacak işlemlerin operasyonel, makine bazlı olarak takibini ve süre bazlı maliyetlendirilmesini sağlar. Makine arıza, bakım, verimlilik, çalışma süreleri vb. işlemlerin takibini yapabilirsiniz.</p>
+<p>OPTOEL MPM İmalat Yönetim Sistemi tarafından geçiştirilen Operasyon ve Makine Yönetimi modülü, üretim aşamalarının en verimli ve kontrollü bir şekilde gerçekleştirilmesini sağlar. Üretim aşamalarında üretim birimlerinin operasyon ve/veya makine bazlı iş emri bilgilerini görerek kontrollü üretim yapmasını sağlayabilirsiniz.</p>
+<div class="gdoc-page__anchorwrap">
+    <h2 id="operasyon-tanımlama">
+        Operasyon Tanımlama
+        <a data-clipboard-text="https://erelbi.github.io/test-optoel/optel-mpm/makine-kontrol/#operasyon-tanımlama" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor Operasyon Tanımlama" href="#operasyon-tan%c4%b1mlama">
+            <svg class="icon gdoc_link"><use xlink:href="#gdoc_link"></use></svg>
+        </a>
+    </h2>
+</div><p>Operasyona ait süre ve maliyet bilgilerinin tanımlanması üretim maliyetiniz ve verimlilik açısından önemlidir. OPTOEL MPM, operasyon için gerekli bilgilerin yönetimini hızlı ve yönetilebilir olarak sağlamaktadır. Operasyonların etkin kullanımı teslim sürelerinin belirlenmesi, maliyet iyleştirmelerinde fayda sağlayacaktır.</p>
+<div class="gdoc-page__anchorwrap">
+    <h2 id="operasyon-makine-bağlantısı">
+        Operasyon Makine Bağlantısı
+        <a data-clipboard-text="https://erelbi.github.io/test-optoel/optel-mpm/makine-kontrol/#operasyon-makine-bağlantısı" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor Operasyon Makine Bağlantısı" href="#operasyon-makine-ba%c4%9flant%c4%b1s%c4%b1">
+            <svg class="icon gdoc_link"><use xlink:href="#gdoc_link"></use></svg>
+        </a>
+    </h2>
+</div><p>Makineler operasyonların vazgeçilmez unsurlarıdır. Bir operasyon makine bağlantısı var ise operasyon verimlilik ve fiyat uygulaması makine üzerinden hesaplanmaktadır. OPTOEL MPM ile sabit ve makine bağlantılı operasyon bağlantıları oluşturabilirsiniz.</p>
+<div class="gdoc-page__anchorwrap">
+    <h2 id="operasyon-detay-kayıtları-tanımlama">
+        Operasyon Detay Kayıtları Tanımlama
+        <a data-clipboard-text="https://erelbi.github.io/test-optoel/optel-mpm/makine-kontrol/#operasyon-detay-kayıtları-tanımlama" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor Operasyon Detay Kayıtları Tanımlama" href="#operasyon-detay-kay%c4%b1tlar%c4%b1-tan%c4%b1mlama">
+            <svg class="icon gdoc_link"><use xlink:href="#gdoc_link"></use></svg>
+        </a>
+    </h2>
+</div><p>Üretiminiz operatörünüze bağlı kalmasın. Reçete tanımlama sırasında operasyon için önemli olan bilgileri tanımlamanızı ve almanızı sağlar. Operasyon yapım aşamalarında sizin için gerekli olan tanımlamaları siz yapın, biz sizin için takip edelim.</p>
+<div class="gdoc-page__anchorwrap">
+    <h2 id="operasyon-hareket-kayıtları">
+        Operasyon Hareket Kayıtları
+        <a data-clipboard-text="https://erelbi.github.io/test-optoel/optel-mpm/makine-kontrol/#operasyon-hareket-kayıtları" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor Operasyon Hareket Kayıtları" href="#operasyon-hareket-kay%c4%b1tlar%c4%b1">
+            <svg class="icon gdoc_link"><use xlink:href="#gdoc_link"></use></svg>
+        </a>
+    </h2>
+</div><p>Operasyon bazlı üretim yapan firmaların en büyük sorunları ürün için hangi operasyon yapılmış, hangileri bekliyor durumudur. OPTOEL MPM ürününüz için operasyonel bazlı takip imkânı sunar. Ürününüzün operasyonel durumunu anında görebilir ve bilgi alabilirsiniz.</p>
+<div class="gdoc-page__anchorwrap">
+    <h2 id="makine-tanımlama">
+        Makine Tanımlama
+        <a data-clipboard-text="https://erelbi.github.io/test-optoel/optel-mpm/makine-kontrol/#makine-tanımlama" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor Makine Tanımlama" href="#makine-tan%c4%b1mlama">
+            <svg class="icon gdoc_link"><use xlink:href="#gdoc_link"></use></svg>
+        </a>
+    </h2>
+</div><p>Makineler, operasyon kayıtlarının vazgeçilmez unsurlarıdır. Üretimin verimlilik ve maliyetine direkt etki eden makineler için gerekli bilgilerin alınması gerekmektedir. Makineye ait süre, birim fiyat ve çalışma zamanı girişlerini yapabilirsiniz. Makineler için genel verimlilik ve doluluk oranlarınızı görebilirsiniz.</p>
+<div class="gdoc-page__anchorwrap">
+    <h2 id="çalışma-periyodu-tanımlama">
+        Çalışma Periyodu Tanımlama
+        <a data-clipboard-text="https://erelbi.github.io/test-optoel/optel-mpm/makine-kontrol/#çalışma-periyodu-tanımlama" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor Çalışma Periyodu Tanımlama" href="#%c3%a7al%c4%b1%c5%9fma-periyodu-tan%c4%b1mlama">
+            <svg class="icon gdoc_link"><use xlink:href="#gdoc_link"></use></svg>
+        </a>
+    </h2>
+</div><p>Makinelerin çalışma performanslarını tanımlamak makine verimliliği konusunun vazgeçilmezidir. Makineler için hızlı ve kolay şekilde tarih bazlı olarak çalışma saat aralığı tanımlayabilir ve çalışma saatlerini yönetebilirsiniz.</p>
+<div class="gdoc-page__anchorwrap">
+    <h2 id="arıza--bakım-yönetimi">
+        Arıza / Bakım Yönetimi
+        <a data-clipboard-text="https://erelbi.github.io/test-optoel/optel-mpm/makine-kontrol/#arıza--bakım-yönetimi" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor Arıza / Bakım Yönetimi" href="#ar%c4%b1za--bak%c4%b1m-y%c3%b6netimi">
+            <svg class="icon gdoc_link"><use xlink:href="#gdoc_link"></use></svg>
+        </a>
+    </h2>
+</div><p>Makinenin arıza ve bakım işlemleri firmalar açısından en dikkat edilmesi gereken ve oldukça maliyetli bir durumdur. Makinelerinizin bakım kayıtlarını oluşturabilir ve bakım zamanını takip edebilirsiniz. Operatörler tarafından girilen arıza kayıtlarını inceleyebilir ve bu konuda önlemler alabilirsiniz.</p>
+<div class="gdoc-page__anchorwrap">
+    <h2 id="makine-kullanıcı-tanımlama">
+        Makine Kullanıcı Tanımlama
+        <a data-clipboard-text="https://erelbi.github.io/test-optoel/optel-mpm/makine-kontrol/#makine-kullanıcı-tanımlama" class="gdoc-page__anchor gdoc-page__anchor--right clip" aria-label="Anchor Makine Kullanıcı Tanımlama" href="#makine-kullan%c4%b1c%c4%b1-tan%c4%b1mlama">
+            <svg class="icon gdoc_link"><use xlink:href="#gdoc_link"></use></svg>
+        </a>
+    </h2>
+</div><p>Her makinenin kullanımı için bir belge ve ustalık gerekebilir. Makine kullanımınızı kullanıcıya bağlayabilir ve makine için gerekli kullanım kısıtlamasını sağlayabilirsiniz. Operatörlerinizin kullandıkları makine bazlı verimliliklerini takip edebilirsiniz.</p>
 
     </article>
 

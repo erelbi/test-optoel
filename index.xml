@@ -13,7 +13,8 @@
       <pubDate>Tue, 17 Aug 2021 14:51:04 +0300</pubDate>
       
       <guid>https://erelbi.github.io/test-optoel/optel-mpm/rapolarma/</guid>
-      <description>Bu kısım yazılacaktır. ( Görseller Hazırlanıyor )</description>
+      <description>Üretim Sonu Yönetimi    Üretim için kullanılan malzemelerin stok takibi oldukça önemli ve zahmetlidir. OPTOEL MPM İmalat Yönetim Sistemi, üretimi tamamlanan ürün ağaçlarının içerdiği bileşenlerin stoktan düşülmesi ve üretim sonunda oluşan yeni stokların stoğa girilmesi, maliyetlerinin oluşturulması işlemlerinin kolay ve hatasız olarak gerçekleştirilmesini sağlar. Hatalı üretim (hurda) ve seçenekli üretim kaydı işlemlerinizi yapabilirsiniz.
+OPTOEL MPM İmalat Yönetim Sistemi ile üretim sonunda oluşan ürünlerinizin lot, parti, seri gibi tanımlamalarını ve takibini yapabilirsiniz.</description>
     </item>
     
     <item>
@@ -31,7 +32,8 @@
       <pubDate>Tue, 17 Aug 2021 14:50:30 +0300</pubDate>
       
       <guid>https://erelbi.github.io/test-optoel/optel-mpm/anl%C4%B1k-sens%C3%B6r-takibi/</guid>
-      <description>Geleneksel olarak üreticiler, özellikle karmaşık ve uzun çözümler üretenler olmak üzere, ürünün servis ve bakım zorluğuyla yüzleşme zorluğuyla karşılaşıyorlardı. Ancak IoT ile birlikte şu anda cihazlara entegre edilmiş iyi sensörler, ürün performansını gözlemlemek için onların kontrolünü sağlayan üreticilere bilgi akışı sağlıyor. Optoel MPM yazılımı tüm Iot sensörlerini gerçek zamanlı izlemeye olanak sağlamaktadır.</description>
+      <description>Geleneksel olarak üreticiler, özellikle karmaşık ve uzun çözümler üretenler olmak üzere, ürünün servis ve bakım zorluğuyla yüzleşme zorluğuyla karşılaşıyorlardı. Ancak IoT ile birlikte şu anda cihazlara entegre edilmiş iyi sensörler, ürün performansını gözlemlemek için onların kontrolünü sağlayan üreticilere bilgi akışı sağlıyor. Optoel MPM yazılımı tüm Iot sensörlerini gerçek zamanlı izlemeye olanak sağlamaktadır.
+  graph LR; A[Makine] --|TCP&amp;Serial Port| B(Sensör Verileri) B -- C{Karar Desktek Mekanizması} C --|Web| D[Optoel MPM] C --|E-mail| E[Rapor]  </description>
     </item>
     
     <item>
@@ -40,7 +42,8 @@
       <pubDate>Tue, 17 Aug 2021 14:50:14 +0300</pubDate>
       
       <guid>https://erelbi.github.io/test-optoel/optel-mpm/makine-kontrol/</guid>
-      <description>Bu kısım yazılacaktır. ( Görseller Hazırlanıyor )</description>
+      <description>sequenceDiagram Makine-Donanım: Sensör loop Donanım--Makine: Parametreler Okunur. end Donanım-Karar Destek Mekanizması: Veriler İşlenir loop Karar Desktek Mekanizması-OPTOEL MPM: Verilerin Görselleştirilir. end  Üretim aşamalarında verimlilik ve maliyet yönetiminin ana unsurlarındandır. OPTOEL MPM İmalat Yönetim Sistemi, üretim aşamalarında ürün ağacında tanımlı bileşenlere uygulanacak işlemlerin operasyonel, makine bazlı olarak takibini ve süre bazlı maliyetlendirilmesini sağlar. Makine arıza, bakım, verimlilik, çalışma süreleri vb. işlemlerin takibini yapabilirsiniz.
+OPTOEL MPM İmalat Yönetim Sistemi tarafından geçiştirilen Operasyon ve Makine Yönetimi modülü, üretim aşamalarının en verimli ve kontrollü bir şekilde gerçekleştirilmesini sağlar.</description>
     </item>
     
     <item>
@@ -49,7 +52,8 @@
       <pubDate>Tue, 17 Aug 2021 14:50:01 +0300</pubDate>
       
       <guid>https://erelbi.github.io/test-optoel/optel-mpm/planlama/</guid>
-      <description>Bu kısım yazılacaktır. ( Görseller Hazırlanıyor )</description>
+      <description>Üretim Planlama Yönetimi    OPTOEL MPM İmalat Yönetim Sistemi ile üretim ortamınızdaki kaynaklarınızı etkili biçimde kullanarak müşterilerinizin taleplerini karşılayabilirsiniz. Üretim faaliyetlerinizi en verimli şekilde organize edilebilmenizi ve planlama süreçlerinizdeki gereksinimlerinizi kolay ve hızlı şekilde yönetebilmenizi sağlar. Satın alma entegrasyonu ile gereksinimleriniz için hızlı talep ve sipariş oluşturabilirsiniz.
+OPTOEL MPM İmalat Yönetim Sistemi tarafından geliştirilen Üretim Planlama Yönetimi modülü ile gereksinim listesi hazırlarken stok bakiyeleriniz, iş emri bakiyeleriniz ve sipariş bakiyeleriniz parametrik olarak dikkate alınarak gereksinim hesaplaması yapılır.</description>
     </item>
     
     <item>
@@ -77,7 +81,8 @@
       <pubDate>Tue, 17 Aug 2021 14:48:51 +0300</pubDate>
       
       <guid>https://erelbi.github.io/test-optoel/optel-mpm/%C3%BCretim-kontrol/</guid>
-      <description>Bu kısım yazılacaktır. ( Görseller Hazırlanıyor )</description>
+      <description>OPTOEL MPM İmalat Yönetim Sistemi ile üretim ortamınızdaki kaynaklarınızı etkili biçimde kullanarak müşterilerinizin taleplerini karşılayabilirsiniz. Üretim faaliyetlerinizi en verimli şekilde organize edilebilmenizi ve planlama süreçlerinizdeki gereksinimlerinizi kolay ve hızlı şekilde yönetebilmenizi sağlar. Satın alma entegrasyonu ile gereksinimleriniz için hızlı talep ve sipariş oluşturabilirsiniz.
+OPTOEL MPM İmalat Yönetim Sistemi tarafından geliştirilen Üretim Planlama Yönetimi modülü ile gereksinim listesi hazırlarken stok bakiyeleriniz, iş emri bakiyeleriniz ve sipariş bakiyeleriniz parametrik olarak dikkate alınarak gereksinim hesaplaması yapılır.</description>
     </item>
     
     <item>
